@@ -10,3 +10,8 @@ Belajar Dasar Structured Query Language (Progres 21%)
  Belajar Dasar Structured Query Language (Progres 57%)
  * Pengenalan Structured Query Language
  * Penggunaan Basic Query pada SQL
+
+**05 September 2023**
+Belajar Dasar Structured Query Language (Progres 100%)
+ * Berlatih dengan software DB Browser SQLite untuk memproses data
+ * Mengerjakan ujian akhir untuk menilai kemahiran diri
